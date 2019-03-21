@@ -2,14 +2,14 @@
 
 开始界面  
 
-![Image text](-ReadMe/Simulator Screen Shot - iPhone 7 Plus - 2019-03-21 at 12.22.15.png)
+![Image text](https://github.com/huqinzhi/-ReadMe/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%207%20Plus%20-%202019-03-21%20at%2012.22.15.png)
 
 游戏画面  
 
-![Image text](-ReadMe/Simulator Screen Shot - iPhone 7 Plus - 2019-03-21 at 12.22.20.png)  
+![Image text](https://github.com/huqinzhi/-ReadMe/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%207%20Plus%20-%202019-03-21%20at%2012.22.20.png)  
 
-![Image text](-ReadMe/Simulator Screen Shot - iPhone 7 Plus - 2019-03-21 at 12.22.34.png)
+![Image text](https://github.com/huqinzhi/-ReadMe/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%207%20Plus%20-%202019-03-21%20at%2012.22.34.png)
 
 失败画面
 
-![Image text](-ReadMe/Simulator Screen Shot - iPhone 7 Plus - 2019-03-21 at 12.22.24.png)
+![Image text](https://github.com/huqinzhi/-ReadMe/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%207%20Plus%20-%202019-03-21%20at%2012.22.34.png)
